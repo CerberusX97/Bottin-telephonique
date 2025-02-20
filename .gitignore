@@ -1,0 +1,12 @@
+# Clion
+
+.idea/
+cmake-build-debug
+
+.vscode/
+
+#Netbeans
+nbprojet/
+dist/
+build/
+Makefile
